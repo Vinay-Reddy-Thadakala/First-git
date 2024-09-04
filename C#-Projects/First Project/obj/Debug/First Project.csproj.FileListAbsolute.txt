@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\bin\Debug\First Project.exe.config
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\bin\Debug\First Project.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\bin\Debug\First Project.pdb
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\obj\Debug\First Project.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\obj\Debug\First Project.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\First Project\obj\Debug\First Project.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\bin\Debug\First Project.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\bin\Debug\First Project.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\bin\Debug\First Project.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\obj\Debug\First Project.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\obj\Debug\First Project.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\obj\Debug\First Project.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\First Project\obj\Debug\First Project.pdb

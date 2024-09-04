@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D52DF6E-0BFE-4F38-8FFB-65BA74843ADF}|Delegates\\Delegates.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D52DF6E-0BFE-4F38-8FFB-65BA74843ADF}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD113FC7-79FE-4513-A77A-188B0312E6AF}|Data Types Conversion\\Data Types Conversion.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\data types conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD113FC7-79FE-4513-A77A-188B0312E6AF}|Data Types Conversion\\Data Types Conversion.csproj|solutionrelative:data types conversion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF4D0212-E34A-4619-9AE2-6E46B022CBAD}|Data Types\\Data Types.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF4D0212-E34A-4619-9AE2-6E46B022CBAD}|Data Types\\Data Types.csproj|solutionrelative:data types\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{429369E9-12B6-4C83-AB9F-89FF5F698EFB}|Attributes\\Attributes.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{429369E9-12B6-4C83-AB9F-89FF5F698EFB}|Attributes\\Attributes.csproj|solutionrelative:attributes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C865094-9C70-4492-ACAD-6ADA030A8B9E}|Arrays\\Arrays.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C865094-9C70-4492-ACAD-6ADA030A8B9E}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E416CB9-1057-406B-A49D-FDBBA7D8D9D7}|Acess Modifires\\Acess Modifires.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\acess modifires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E416CB9-1057-406B-A49D-FDBBA7D8D9D7}|Acess Modifires\\Acess Modifires.csproj|solutionrelative:acess modifires\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E9D0614-C270-4D75-A836-1CBD2ED35A40}|Control Flow Statements\\Control Flow Statements.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\control flow statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E9D0614-C270-4D75-A836-1CBD2ED35A40}|Control Flow Statements\\Control Flow Statements.csproj|solutionrelative:control flow statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6C9370-F32E-4C05-AA6E-892922A2376B}|Classes\\Classes.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6C9370-F32E-4C05-AA6E-892922A2376B}|Classes\\Classes.csproj|solutionrelative:classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0D24A4-DC96-4716-98D8-FB23C5005776}|Abstract Classes\\Abstract Classes.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\c#-projects\\abstract classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0D24A4-DC96-4716-98D8-FB23C5005776}|Abstract Classes\\Abstract Classes.csproj|solutionrelative:abstract classes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C093F3C7-C01C-429E-A934-EEC6A94F9994}|Generics\\Generics.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\c#-projects\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C093F3C7-C01C-429E-A934-EEC6A94F9994}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAF650C4-6904-48A0-9094-F2637E1C25E7}|Enums\\Enums.csproj|C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAF650C4-6904-48A0-9094-F2637E1C25E7}|Enums\\Enums.csproj|solutionrelative:enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Abstract Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Abstract Classes\\Program.cs",
+              "RelativeToolTip": "Abstract Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:59:34.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Data Types\\Program.cs",
+              "RelativeDocumentMoniker": "Data Types\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Data Types\\Program.cs",
+              "RelativeToolTip": "Data Types\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:17:32.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Control Flow Statements\\Program.cs",
+              "RelativeDocumentMoniker": "Control Flow Statements\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Control Flow Statements\\Program.cs",
+              "RelativeToolTip": "Control Flow Statements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:07:40.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Classes\\Program.cs",
+              "RelativeDocumentMoniker": "Classes\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Classes\\Program.cs",
+              "RelativeToolTip": "Classes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:09:01.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Attributes\\Program.cs",
+              "RelativeDocumentMoniker": "Attributes\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Attributes\\Program.cs",
+              "RelativeToolTip": "Attributes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T06:20:46.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Acess Modifires\\Program.cs",
+              "RelativeDocumentMoniker": "Acess Modifires\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Acess Modifires\\Program.cs",
+              "RelativeToolTip": "Acess Modifires\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T06:57:08.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:03:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Data Types Conversion\\Program.cs",
+              "RelativeDocumentMoniker": "Data Types Conversion\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Data Types Conversion\\Program.cs",
+              "RelativeToolTip": "Data Types Conversion\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:18:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AQIAAAEAAACGzMzMzMwnwAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:25:38.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T05:47:22.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Enums\\Program.cs",
+              "RelativeDocumentMoniker": "Enums\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\C#-Projects\\Enums\\Program.cs",
+              "RelativeToolTip": "Enums\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T06:50:09.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\bin\Debug\Classes.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\bin\Debug\Classes.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\bin\Debug\Classes.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\obj\Debug\Classes.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Classes\obj\Debug\Classes.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\bin\Debug\Classes.exe.config
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\bin\Debug\Classes.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\bin\Debug\Classes.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\obj\Debug\Classes.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\obj\Debug\Classes.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\obj\Debug\Classes.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Classes\obj\Debug\Classes.pdb

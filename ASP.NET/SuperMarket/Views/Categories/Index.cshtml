@@ -1,0 +1,19 @@
+﻿@using SuperMarket.Models;
+@model List<Category>
+@section title{
+    <h3 style="color: blue;">Categories.</h3>
+}
+<ul> 
+    @foreach(var category in Model)
+    {
+        <li>
+            @category.CategoryId
+        </li>
+        <li>
+            @category.Description
+        </li>
+        <li>
+            @category.Name
+        </li>
+    }   
+</ul>

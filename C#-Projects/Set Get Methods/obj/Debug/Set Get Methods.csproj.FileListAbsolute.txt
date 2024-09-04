@@ -1,0 +1,7 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\bin\Debug\Set Get Methods.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\bin\Debug\Set Get Methods.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\bin\Debug\Set Get Methods.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\obj\Debug\Set Get Methods.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\obj\Debug\Set Get Methods.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\obj\Debug\Set Get Methods.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Set Get Methods\obj\Debug\Set Get Methods.pdb

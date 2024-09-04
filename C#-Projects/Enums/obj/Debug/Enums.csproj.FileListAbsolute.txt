@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\bin\Debug\Enums.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\bin\Debug\Enums.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\bin\Debug\Enums.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\obj\Debug\Enums.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Enums\obj\Debug\Enums.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\bin\Debug\Enums.exe.config
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\bin\Debug\Enums.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\bin\Debug\Enums.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\obj\Debug\Enums.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Enums\obj\Debug\Enums.pdb

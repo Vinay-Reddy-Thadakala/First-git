@@ -1,0 +1,21 @@
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\bin\Debug\Data Types.exe.config
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\bin\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\bin\Debug\Data Types.pdb
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\obj\Debug\Data Types.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\obj\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Data Types\obj\Debug\Data Types.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\bin\Debug\Data Types.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\bin\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\bin\Debug\Data Types.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\obj\Debug\Data Types.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\obj\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Data Types\obj\Debug\Data Types.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\bin\Debug\Data Types.exe.config
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\bin\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\bin\Debug\Data Types.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\obj\Debug\Data Types.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\obj\Debug\Data Types.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\obj\Debug\Data Types.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Data Types\obj\Debug\Data Types.pdb

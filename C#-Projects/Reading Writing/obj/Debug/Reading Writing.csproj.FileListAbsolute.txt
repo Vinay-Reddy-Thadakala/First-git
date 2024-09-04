@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\bin\Debug\Reading Writing.exe.config
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\bin\Debug\Reading Writing.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\bin\Debug\Reading Writing.pdb
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\obj\Debug\Reading Writing.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\obj\Debug\Reading Writing.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\obj\Debug\Reading Writing.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Reading Writing\obj\Debug\Reading Writing.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\obj\Debug\Reading Writing.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\obj\Debug\Reading Writing.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\obj\Debug\Reading Writing.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\obj\Debug\Reading Writing.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\bin\Debug\Reading Writing.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\bin\Debug\Reading Writing.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Reading Writing\bin\Debug\Reading Writing.pdb

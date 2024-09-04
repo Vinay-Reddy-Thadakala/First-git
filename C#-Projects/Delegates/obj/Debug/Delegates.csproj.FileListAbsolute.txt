@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\bin\Debug\Delegates.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\bin\Debug\Delegates.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\obj\Debug\Delegates.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Delegates\obj\Debug\Delegates.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\bin\Debug\Delegates.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\bin\Debug\Delegates.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\obj\Debug\Delegates.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Delegates\obj\Debug\Delegates.pdb

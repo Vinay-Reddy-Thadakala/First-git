@@ -1,0 +1,7 @@
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\bin\Debug\Operators.exe.config
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\bin\Debug\Operators.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\bin\Debug\Operators.pdb
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\obj\Debug\Operators.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Operators\obj\Debug\Operators.pdb

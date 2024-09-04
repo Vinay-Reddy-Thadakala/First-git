@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\categoriesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\supermarket.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\TraditionalWebApp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|c:\\users\\sri sai\\desktop\\.net-projects\\asp.net\\supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{148CBA10-8E96-4BD5-B77A-435345AC18C8}|SuperMarket\\SuperMarket.csproj|solutionrelative:supermarket\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Models\\Category.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:24:19.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TraditionalWebApp.csproj",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\TraditionalWebApp.csproj",
+              "RelativeDocumentMoniker": "..\\..\\.Net\\ASP.NET\\WebApplication\\TraditionalWebApp.csproj",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\TraditionalWebApp.csproj",
+              "RelativeToolTip": "..\\..\\.Net\\ASP.NET\\WebApplication\\TraditionalWebApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T05:02:59.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SuperMarket\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T10:25:54.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Models\\CategoriesRepository.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Models\\CategoriesRepository.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Models\\CategoriesRepository.cs",
+              "RelativeToolTip": "SuperMarket\\Models\\CategoriesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T09:47:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:02:12.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T10:01:36.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Program.cs",
+              "RelativeDocumentMoniker": "SuperMarket\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Program.cs",
+              "RelativeToolTip": "SuperMarket\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:18:08.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T09:58:33.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperMarket.csproj",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\SuperMarket.csproj",
+              "RelativeDocumentMoniker": "SuperMarket\\SuperMarket.csproj",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\SuperMarket.csproj",
+              "RelativeToolTip": "SuperMarket\\SuperMarket.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-04T11:43:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\.Net\\ASP.NET\\WebApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net\\ASP.NET\\WebApplication\\Program.cs",
+              "RelativeToolTip": "..\\..\\.Net\\ASP.NET\\WebApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:59:35.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T09:31:59.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "SuperMarket\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\SRI SAI\\Desktop\\.Net-Projects\\ASP.NET\\SuperMarket\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "SuperMarket\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T09:31:56.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

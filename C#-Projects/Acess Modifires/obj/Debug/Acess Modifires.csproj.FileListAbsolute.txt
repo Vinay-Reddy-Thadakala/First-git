@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\obj\Debug\Acess Modifires.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\obj\Debug\Acess Modifires.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\bin\Debug\Acess Modifires.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\bin\Debug\Acess Modifires.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\bin\Debug\Acess Modifires.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\obj\Debug\Acess Modifires.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Acess Modifires\obj\Debug\Acess Modifires.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\obj\Debug\Acess Modifires.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\obj\Debug\Acess Modifires.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\obj\Debug\Acess Modifires.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\obj\Debug\Acess Modifires.pdb
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\bin\Debug\Acess Modifires.exe.config
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\bin\Debug\Acess Modifires.exe
+C:\Users\SRI SAI\Desktop\.Net-Projects\C#-Projects\Acess Modifires\bin\Debug\Acess Modifires.pdb

@@ -1,0 +1,14 @@
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\bin\Debug\Variables.exe.config
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\bin\Debug\Variables.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\bin\Debug\Variables.pdb
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\obj\Debug\Variables.exe
+C:\Users\SRI SAI\Desktop\Visual Studio 2002\C# Projects\Variables\obj\Debug\Variables.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\bin\Debug\Variables.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\bin\Debug\Variables.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\bin\Debug\Variables.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\obj\Debug\Variables.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\obj\Debug\Variables.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Variables\obj\Debug\Variables.pdb

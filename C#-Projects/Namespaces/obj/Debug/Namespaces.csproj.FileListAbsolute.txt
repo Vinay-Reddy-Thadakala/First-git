@@ -1,0 +1,7 @@
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\bin\Debug\Namespaces.exe.config
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\bin\Debug\Namespaces.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\bin\Debug\Namespaces.pdb
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\obj\Debug\Namespaces.csproj.AssemblyReference.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\obj\Debug\Namespaces.csproj.CoreCompileInputs.cache
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\obj\Debug\Namespaces.exe
+C:\Users\SRI SAI\Desktop\.Net\C# Projects\Namespaces\obj\Debug\Namespaces.pdb
